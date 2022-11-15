@@ -1,0 +1,10 @@
+com/sandrosaric/productservice/dto/ProductResponse.class
+com/sandrosaric/productservice/dto/ProductRequest.class
+com/sandrosaric/productservice/model/Product.class
+com/sandrosaric/productservice/ProductServiceApplication.class
+com/sandrosaric/productservice/service/ProductService.class
+com/sandrosaric/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/sandrosaric/productservice/controller/ProductController.class
+com/sandrosaric/productservice/model/Product$ProductBuilder.class
+com/sandrosaric/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/sandrosaric/productservice/repository/ProductRepository.class

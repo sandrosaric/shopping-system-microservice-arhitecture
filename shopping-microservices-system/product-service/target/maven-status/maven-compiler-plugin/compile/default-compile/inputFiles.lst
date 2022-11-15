@@ -1,0 +1,7 @@
+/Users/sandrosaric/Desktop/shopping-microservices-system/product-service/src/main/java/com/sandrosaric/productservice/model/Product.java
+/Users/sandrosaric/Desktop/shopping-microservices-system/product-service/src/main/java/com/sandrosaric/productservice/dto/ProductRequest.java
+/Users/sandrosaric/Desktop/shopping-microservices-system/product-service/src/main/java/com/sandrosaric/productservice/dto/ProductResponse.java
+/Users/sandrosaric/Desktop/shopping-microservices-system/product-service/src/main/java/com/sandrosaric/productservice/controller/ProductController.java
+/Users/sandrosaric/Desktop/shopping-microservices-system/product-service/src/main/java/com/sandrosaric/productservice/service/ProductService.java
+/Users/sandrosaric/Desktop/shopping-microservices-system/product-service/src/main/java/com/sandrosaric/productservice/ProductServiceApplication.java
+/Users/sandrosaric/Desktop/shopping-microservices-system/product-service/src/main/java/com/sandrosaric/productservice/repository/ProductRepository.java

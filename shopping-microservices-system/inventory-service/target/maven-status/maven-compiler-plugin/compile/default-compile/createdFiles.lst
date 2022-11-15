@@ -1,0 +1,5 @@
+com/sandrosaric/inventoryservice/repository/InventoryRepository.class
+com/sandrosaric/inventoryservice/InventoryServiceApplication.class
+com/sandrosaric/inventoryservice/service/InventoryService.class
+com/sandrosaric/inventoryservice/controller/InventoryController.class
+com/sandrosaric/inventoryservice/model/Inventory.class
