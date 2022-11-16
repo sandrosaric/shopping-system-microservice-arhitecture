@@ -8,14 +8,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="product-service" />
-        <module name="order-service" />
         <module name="inventory-service" />
+        <module name="order-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="inventory-service" target="17" />
       <module name="order-service" target="17" />
       <module name="product-service" target="17" />
+      <module name="shopping-microservices-system" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
