@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/order-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/product-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/product-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-microservices-system/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-microservices-system/discovery-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shopping-microservices-system/inventory-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shopping-microservices-system/inventory-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shopping-microservices-system/order-service/src/main/java" charset="UTF-8" />
